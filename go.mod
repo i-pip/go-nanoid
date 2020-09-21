@@ -1,3 +1,3 @@
-go 1.14
+module github.com/i-pip/go-nanoid
 
-module github.com/matoous/go-nanoid
+go 1.15
