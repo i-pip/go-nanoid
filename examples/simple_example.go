@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/matoous/go-nanoid"
+	"github.com/i-pip/go-nanoid"
 )
 
 func main() {
